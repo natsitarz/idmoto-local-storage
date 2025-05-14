@@ -16,13 +16,13 @@ Feel free to contribute to this project!
 ABANDONED
 
 ## DONE
-- Sign in page and all of auth stuff [Need more work]
+~~Sign in page and all of auth stuff [Need more work]~~ [Removed as no longer needed]
 - Maintenance log
 - Daily log
 - Refueling log with avg. fuel consumption
 - Adding first car
 - Editing first car
-- Custom description [Need more work]
+- Custom description
 
 ## Authors
 
