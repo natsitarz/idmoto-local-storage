@@ -1,6 +1,7 @@
 ![new-logo](https://github.com/natsitarz/car.io/assets/78207063/1982469e-0111-4b1d-9ae4-6a76b7edc34b)
 
-# IDMOTO
+# IDMOTO | Local Storage version
+## DEPRECATED
 
 Your personal car's profile!
 
@@ -12,15 +13,7 @@ You can share your profile using generated qr codes.
 Feel free to contribute to this project!
 
 ## TO-DO
-- Convert project to React
-- Sign up page
-- Better account page
-- Storing every information about user and their cars in database instead of localStorage
-- Adding more than one car
-- Gallery
-- Sharing photos from gallery
-- QR code stickers
-- Responsive elements for mobile and other displays
+ABANDONED
 
 ## DONE
 - Sign in page and all of auth stuff [Need more work]
