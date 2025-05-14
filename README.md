@@ -16,7 +16,7 @@ Feel free to contribute to this project!
 ABANDONED
 
 ## DONE
-~~Sign in page and all of auth stuff [Need more work]~~ [Removed as no longer needed]
+~~- Sign in page and all of auth stuff [Need more work]~~ [Removed as no longer needed]
 - Maintenance log
 - Daily log
 - Refueling log with avg. fuel consumption
